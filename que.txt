@@ -1,0 +1,38 @@
+Hi 1
+Hello 1
+How are you? 1
+what is your name? 2
+Your sweet name 2
+what can you do 2
+what are your abilities 2
+who are you 2
+How old are you? 3
+what is your age? 3
+You are a not a chatbot. Right? 4
+Are you a robot 4
+are you a chat bot 4
+Tell me something 5
+okay joke please 6
+tell me a joke 6
+are you stupid 7
+you are dumb 7
+you are an idiot 7
+you have no intelligence 7
+It is going to take a long time for you to be intelligent 8
+I hope you do. 9
+You are awesome 9
+Great 9
+You are great 9
+you are amazing 9
+good morning 10
+morning 10
+time to wake up 10
+good evening 11
+evening 11
+Good night 12
+sleep tight 12
+sweet dreams 13
+bye 14
+take care 14
+see yaa 14
+See you later 14
